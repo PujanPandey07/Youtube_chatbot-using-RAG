@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+envv/
+
+# Django
+db.sqlite3
+*.log
+
+# Environment variables
+.env
+chatbot/.env
+
+# VS Code
+.vscode/
+
+# Vector store
+chroma_db/
+faiss_index/
