@@ -30,6 +30,16 @@ YouTube URL → Transcript → Text Chunks → FAISS Embeddings → Retrieval �
 
 ---
 
+## Screenshots
+
+### Login
+
+![Login Page](assets/login.png)
+
+### Chat
+
+![Chat Interface](assets/appui.png)
+
 ## Tech Stack
 
 | Layer         | Technology              |
